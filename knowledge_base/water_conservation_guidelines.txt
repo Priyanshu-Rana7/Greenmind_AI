@@ -1,0 +1,21 @@
+# Water Conservation Guidelines for Educational Campuses
+
+## 1. Smart Metering & Leak Detection
+* Implement sub-metering at key points (hostels, academic blocks, mess kitchens, laboratories) to monitor consumption and detect abnormal flows indicating leaks.
+* Regularly check float valves in overhead tanks. A faulty float valve can waste up to 2,000 liters of water daily due to overflow.
+* Check taps and pipes for slow leaks: a tap dripping at one drip per second wastes over 11,000 liters of water per year.
+
+## 2. Low-Flow Aerators & Sensor-Based Faucets
+* Install aerators on all public and restroom taps. Aerators mix air into the water stream, reducing flow from 15 liters per minute to less than 6 liters per minute without compromising water pressure.
+* Install dual-flush toilet mechanisms. Dual flush systems use 3 liters for half-flush (liquid waste) and 6 liters for full-flush (solid waste), compared to traditional single-flush systems that consume 9 to 12 liters per flush.
+* Implement push-button or motion-sensor faucets in high-traffic student restrooms to eliminate water waste from taps left running.
+
+## 3. Landscape & Irrigation Management
+* Utilize drip irrigation systems for gardens and flower beds instead of overhead sprinklers. Drip systems apply water directly to the root zone, reducing evaporative loss by up to 60%.
+* Irrigate landscape areas during early morning or late evening hours to minimize evaporation losses from wind and heat.
+* Plant native, drought-resistant trees, shrubs, and groundcovers (xeriscaping) that naturally thrive in local climates with minimal supplemental watering.
+
+## 4. Rainwater Harvesting (RWH)
+* Roof runoff collection: Connect building roofs to filtering chambers and redirect clean rainwater into storage sumps or groundwater recharge wells.
+* Calculate harvesting potential: 1 mm of rainfall on 1 square meter of roof yields approximately 0.9 liters of harvestable water (adjusting for runoff coefficient).
+* Pervious pavements: Ensure pathways and parking areas use permeable interlocking concrete pavers to let rainwater infiltrate the ground, replenishing the local water table rather than creating surface runoff.

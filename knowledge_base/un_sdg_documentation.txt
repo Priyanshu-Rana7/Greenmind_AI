@@ -1,0 +1,23 @@
+# UN Sustainable Development Goals (SDGs) & Green Campuses
+
+## Primary SDG Alignment
+### SDG 11: Sustainable Cities and Communities
+* **Goal description:** Make cities and human settlements inclusive, safe, resilient, and sustainable.
+* **Campus Role:** Educational institutions act as micro-cities. By adopting green building designs, lowering carbon emissions, promoting walking/cycling pathways, and offering accessible open green spaces, campuses directly contribute to the sustainability of the wider community.
+
+## Secondary SDG Alignments
+### SDG 6: Clean Water and Sanitation
+* **Goal description:** Ensure availability and sustainable management of water and sanitation for all.
+* **Campus Role:** Target 6.4 focuses on water-use efficiency and sustainable withdrawals. Campuses can achieve this via smart meters, dual-flush toilets, rainwater harvesting, greywater recycling, and regular maintenance checkups.
+
+### SDG 7: Affordable and Clean Energy
+* **Goal description:** Ensure access to affordable, reliable, sustainable, and modern energy for all.
+* **Campus Role:** Target 7.2 aims to increase the share of renewable energy. Installing solar panels on classroom roofs and shifting campus electricity loads to renewable systems directly reduces fossil-fuel reliance.
+
+### SDG 12: Responsible Consumption and Production
+* **Goal description:** Ensure sustainable consumption and production patterns.
+* **Campus Role:** Target 12.5 focuses on reducing waste generation through prevention, reduction, recycling, and reuse. Eliminating single-use plastics and operating on-site composting units directly align with this target.
+
+### SDG 13: Climate Action
+* **Goal description:** Take urgent action to combat climate change and its impacts.
+* **Campus Role:** Campus operations emit greenhouse gases from electricity use, heating, and vehicle fleets. Implementing energy-efficient lighting, transitioning to solar, and expanding the campus tree canopy help sequester carbon and combat climate change.

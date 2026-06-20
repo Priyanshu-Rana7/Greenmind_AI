@@ -1,0 +1,23 @@
+# Waste Management Guidelines for Green Campuses
+
+## 1. Source Segregation Systems
+* Deploy color-coded bins at multiple convenient spots across the campus:
+  * **Green Bins:** Organic/wet waste (food scraps, vegetable peels, garden trimmings).
+  * **Blue Bins:** Dry recyclables (clean paper, cardboard, plastic containers, aluminum cans, glass bottles).
+  * **Red/Black Bins:** Non-recyclable sanitary waste and hazardous materials.
+* Conduct regular workshops for students, faculty, and cleaning staff to avoid contamination of the recycling bin by food scraps.
+
+## 2. Organic Waste Management (Composting & Biogas)
+* Food waste makes up 40% of total campus waste volume. All organic waste from campus canteens and hostels must be processed on-site.
+* Composting methods:
+  * **Aerobic Composting:** Turn food waste and dry leaves weekly to produce nutrient-rich compost in 60-90 days, which can replace commercial fertilizer on campus lawns.
+  * **Vermicomposting:** Use earthworms to accelerate decomposition, producing premium vermicompost in 45 days.
+* Biogas Plant: For campuses generating over 100 kg of food waste daily, a small anaerobic digester can generate methane gas for canteen cooking, saving fuel costs.
+
+## 3. Paper Reduction & Printing Policies
+* Transition all administrative processes, registrations, admissions, and grading reports to online/cloud platforms to minimize paper printing.
+* Mandate default double-sided settings on all library printers and require card-authenticated release printing (print jobs are deleted if not physically released in 2 hours).
+
+## 4. E-waste & Hazardous Waste Protocol
+* Establish safe disposal bins for batteries, bulbs, ink cartridges, and obsolete computer components in the department offices.
+* Partner with certified electronic recycling agencies that responsibly disassemble and recycle valuable metals (copper, gold, rare earths) and prevent heavy metals (lead, mercury) from entering landfills.

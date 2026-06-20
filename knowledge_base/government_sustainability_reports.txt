@@ -1,0 +1,26 @@
+# Government & Institutional Sustainability Benchmarks
+
+## 1. National Green Building Standards & Rating Systems
+* Green building ratings (such as LEED, GRIHA in India, or equivalent national standards) establish criteria for evaluating educational institutions.
+* Key parameters for rating points:
+  * Sustainable site planning (maintaining natural soil permeability, preserving mature trees).
+  * Water efficiency (reducing indoor potable water usage by 30% or more compared to a baseline).
+  * Energy efficiency (demonstrating savings of 10-30% above ASHRAE energy performance standards).
+  * Building materials (use of recycled and local materials).
+  * Indoor environmental quality (natural ventilation, daylight factor compliance).
+
+## 2. Institutional Resource Benchmarks (National Averages)
+* **Electricity Consumption:**
+  * Baseline academic block standard: 20-30 kWh per student per year.
+  * Green campus standard: Less than 15 kWh per student per year.
+* **Water Consumption:**
+  * Baseline student residential usage: 135 liters per capita per day (LPCD) including flushing, bathing, washing, and dining.
+  * Water-efficient campus target: Less than 90 LPCD through low-flow fixtures and recycling.
+* **Carbon Emissions Intensity:**
+  * National electricity grid factor: Approximately 0.82 to 0.85 kg CO2 emitted per kWh consumed.
+  * Direct emissions baseline: 1.5 metric tons CO2 equivalent per student per year.
+  * Net-zero pathway target: Reducing grid consumption by 50% via energy savings and solar offsetting.
+
+## 3. Policy Directives on Solar Power Integration
+* State policies often mandate that educational canteens, hostels, and academic institutions with a connected load of over 100 kW must install solar PV systems covering at least 10% of their electricity load capacity.
+* Net metering connections must be approved by the state electricity board within 45 days of application, enabling financial viability.

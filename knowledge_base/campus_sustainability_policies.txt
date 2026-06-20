@@ -1,0 +1,23 @@
+# Campus Sustainability Policies & Regulations
+
+## 1. Energy Conservation Mandate
+* All classrooms, laboratories, and administrative offices must turn off lighting, fans, air conditioning, and projectors when not in use.
+* Heating, Ventilation, and Air Conditioning (HVAC) systems must be set to a minimum of 24°C (75°F) during cooling seasons to optimize electricity utilization.
+* The campus commits to transitioning at least 30% of its electrical energy baseline to renewable sources, specifically rooftop solar photovoltaic installations, by 2030.
+* Outdoor campus lighting must employ smart motion sensors and light-emitting diode (LED) technology to reduce nocturnal electricity waste.
+
+## 2. Water Stewardship Policy
+* All plumbing fixtures in new or renovated campus facilities must be certified low-flow models (dual-flush toilets, aerated taps, sensor-based urinals).
+* Rainwater harvesting systems must be integrated into all major campus building designs to recharge local groundwater tables and irrigate campus lawns.
+* Recycled wastewater (from sewage treatment plants) should be used exclusively for landscaping, cooling towers, and fire fighting systems.
+* Water leakage audits must be performed bi-annually across all residential hostels and academic blocks.
+
+## 3. Waste Minimization & Zero Single-Use Plastic
+* The campus enforces a strict ban on single-use plastics including water bottles, cups, plates, and plastic cutlery in all canteens and hostels.
+* All waste must be segregated at source into three designated streams: Biodegradable (organic/wet waste), Recyclable (paper, plastic, metal, glass), and Non-recyclable landfill waste.
+* Organic food waste from canteens and hostels must be processed on-site via anaerobic digesters or composting units to generate natural fertilizer for landscaping.
+* Electronic waste (E-waste) must be collected quarterly and handed over only to authorized, government-certified recycling agencies.
+
+## 4. Purchasing & Sustainable Procurement
+* Purchasing departments must prioritize products with Energy Star ratings, EPEAT registry certifications, or local environmental ecolabels.
+* Document printing should be restricted to double-sided printing by default, and digital submissions must be mandated for academic assignments to minimize paper use.

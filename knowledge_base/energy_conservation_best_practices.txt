@@ -1,0 +1,21 @@
+# Energy Conservation Best Practices for Academic Institutions
+
+## 1. HVAC (Heating, Ventilation, and Air Conditioning) Efficiency
+* Air conditioning accounts for 50-60% of total electricity bills in tropical climates. Keep thermostat settings at 24°C - 26°C. Every 1°C increase saves about 6% of cooling energy.
+* Conduct regular cleaning of filters and condenser coils. Blocked filters restrict air flow, forcing compressors to run longer and draw 15% more power.
+* Install variable refrigerant flow (VRF) systems in place of conventional split units for central buildings, offering partial-load energy savings of up to 30%.
+* Use heavy curtains, double-glazed windows, or solar-reflective films on glass facades to reduce thermal solar gain and reduce air-conditioning load.
+
+## 2. Lighting System Modernization
+* Replace old fluorescent T8/T12 tubes with LED tubes. LEDs use 50% less power and last 3 to 5 times longer.
+* Implement occupancy sensors in corridors, restrooms, and server rooms where usage is intermittent. This prevents lights from being left on overnight.
+* Utilize daylight harvesting: position study desks near windows and use light sensors to auto-dim perimeter indoor lights when outdoor sunlight is abundant.
+
+## 3. Solar Photovoltaic (PV) Systems
+* Rooftop solar installation is one of the most effective ways for educational institutions to transition to clean energy (SDG 7).
+* Feasibility: 1 kWp of solar panels requires about 10 square meters (100 sq. ft.) of shadow-free rooftop space and generates roughly 4 units (kWh) of electricity per day on average.
+* Net Metering: Connect solar panels to the local grid. Excess power generated during weekends or vacations is fed back to the utility grid, giving the university billing credits and reducing costs.
+
+## 4. Green Computing & Server Management
+* Enforce power-saving modes (sleep/hibernate) on all desktop computers in computer labs and libraries. A computer left running 24/7 wastes over $100 in electricity annually.
+* Consolidate physical IT servers into virtualized environments to reduce server power draw and cooling demands in server rooms.
