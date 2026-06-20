@@ -241,24 +241,44 @@ def inject_custom_css():
         /* Chat Input Dark Theme Override */
         /* Fix the sticky bottom bar that holds the chat input */
         div[data-testid="stBottom"] {
-            background-color: #0b0f19 !important;
+            background-color: transparent !important;
             border-top: 1px solid #1e293b !important;
         }
         
         div[data-testid="stBottom"] > div {
-            background-color: #0b0f19 !important;
+            background-color: #09090b !important;
         }
 
         div[data-testid="stChatInput"] {
-            background-color: #111827 !important;
-            border: 1px solid #1f2937 !important;
-            border-radius: 10px !important;
+            background-color: #18181b !important; /* Zinc 900 */
+            border: 1px solid #27272a !important; /* Zinc 800 */
+            border-radius: 8px !important;
+            color: #fafafa !important;
         }
         
         div[data-testid="stChatInput"] textarea {
-            background-color: #111827 !important;
-            color: #f8fafc !important;
+            background-color: #18181b !important;
+            color: #fafafa !important;
             border: none !important;
+        }
+        
+        div[data-testid="stChatInput"] button {
+            background-color: transparent !important;
+            color: #fafafa !important;
+        }
+        
+        /* File Uploader styling */
+        div[data-testid="stFileUploader"] {
+            background-color: transparent !important;
+        }
+        div[data-testid="stFileUploader"] > div {
+            background-color: #18181b !important;
+            border: 1px dashed #3f3f46 !important;
+            border-radius: 8px !important;
+            color: #fafafa !important;
+        }
+        div[data-testid="stFileUploader"] > div > div > small {
+            color: #a1a1aa !important; /* Zinc 400 */
         }
 
         /* Chat message bubbles */
